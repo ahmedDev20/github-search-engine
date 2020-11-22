@@ -12,7 +12,7 @@ This is a github search engine where you can look for github users and view thie
 
 - <a href="https://reactjs.org/">ReactJS</a> ⚛
 - <a href="https://firebase.google.com/docs/">Firebase BaaS</a> 🔥
-- <a href="https://api.github.com/">GitHub API</a> 💳
+- <a href="https://api.github.com/">GitHub API</a> 🦑
 
 ### To get started :
 
