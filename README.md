@@ -28,4 +28,4 @@ $ npm install
 $ npm start
 ```
 
-#### View it live:- https://clone-2fb44.web.app/
+#### View it live 🔴:- https://git-search-f7b58.web.app/
